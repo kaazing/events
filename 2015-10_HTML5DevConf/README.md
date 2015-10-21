@@ -3,7 +3,7 @@
 
 ## Talk
 
-[**WebSocket Perspectives 2015 - Clouds, Streaming, Microservices and the Web of Things**](assets/WS-Clouds-Streaming-Microservices.pd)
+[**WebSocket Perspectives 2015 - Clouds, Streaming, Microservices and the Web of Things**](assets/WS-Clouds-Streaming-Microservices.pdf)
 
 **Speakers:** Frank Greco, Peter Moskovits
 
